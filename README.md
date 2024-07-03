@@ -7,6 +7,12 @@ hepconvert can be installed from [PyPI](https://pypi.org/project/hepconvert) usi
 pip install hepconvert
 ```
 
+Or install with Conda through [conda-forge](https://github.com/conda-forge/hepconvert-feedstock):
+
+```bash
+conda install -c conda-forge hepconvert
+```
+
 ### MyBinder
 
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/zbilodea/pyhep2024-hepconvert/main?labpath=hepconvert_features.ipynb)
